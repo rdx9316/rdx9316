@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rdx9316
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @rdx9316 aka Leo
+- 👀 I’m interested in Web Devlepment
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can reach me at telegram https://t.me/rdx_z
 <!---
