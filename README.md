@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rdx9316 aka Leo
+- 👋 Hi, I’m Leo
 - 👀 I’m interested in Web Devlepment and machine learning 
 - 🌱 I’m currently learning Python and c 
 - 💞️ I’m looking to collaborate on ...
