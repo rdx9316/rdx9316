@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leo
+- 👋 Hi, I’m Nitin
 - 👀 I’m interested in Web Devlepment and machine learning 
 - 🌱 I’m currently learning Python and c 
 - 💞️ I’m looking to collaborate on ...
